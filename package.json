@@ -1,0 +1,1 @@
+{"name": "rtk-digital-pass", "version": "1.0.0", "description": "Цифровой пропуск РТК - мобильное приложение", "scripts": {"dev": "vite", "build": "vite build", "serve": "cap serve"}, "dependencies": {"@capacitor/core": "^5.0.0", "@capacitor/android": "^5.0.0", "@capacitor/ios": "^5.0.0"}, "devDependencies": {"@capacitor/cli": "^5.0.0"}}
